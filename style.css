@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+  margin-top: 15%;
+  background-image: url('https://images-na.ssl-images-amazon.com/images/I/81DYrQ5oTGL._SL1500_.jpg');
+  background-repeat:no-repeat;
+  background-size: cover;
+  font-family: arial;
+  font-size: 22px;
+}
+button{
+  text-align: center;
+}
