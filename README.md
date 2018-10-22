@@ -1,24 +1,12 @@
-# 👩🏾‍🎓 Week05 Bootcamp2018c Project: Student List
+# Student Attendance Sheet
+The student attendence sheet project was created to record student names to keep track of who arrived to class.
 
-### Goal: Build a Simple Student List App For A Teacher
+# How It's Made:
+# Tech Used: HTML5, CSS3, JQuery
+First I created a function that would initiate when clicked. Then I will extracted the string value from the input and pushed it to an array. After, I created another onclick function that will appened li children to the dom. I also ceated another function that removes all li children. 
 
-Create a simple app where a teacher can enter student names as they arrive at class. The teacher should have the ability to press a button and see a list off all the students who have arrived.
+# Optimizations
+Would build this in Vanilla Javascript and include local storage.
 
-### How to submit your code for review:
-
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
-
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+# Lessons Learned:
+First attempt with JQuery and I learned how to code shorthand syntax to target elements from the dom.
