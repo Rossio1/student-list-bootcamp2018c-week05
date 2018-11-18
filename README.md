@@ -1,4 +1,4 @@
-# My Awesome Project
+# Student Attendance Sheet
 This is an attendance list application that allows the teacher to submit student names as they enter the classroom, and then click on a button to display all the names of the students.
 
 ![alt tag](image/attendance.png)

@@ -4,6 +4,7 @@ body{
   background-image: url('https://images-na.ssl-images-amazon.com/images/I/81DYrQ5oTGL._SL1500_.jpg');
   background-repeat:no-repeat;
   background-size: cover;
+<<<<<<< HEAD
   font-family: georgia;
   font-size: 22px;
 }
@@ -25,4 +26,11 @@ button{
 }
 input{
   font-size: 18px;
+=======
+  font-family: arial;
+  font-size: 22px;
+}
+button{
+  text-align: center;
+>>>>>>> bc94d99c10b4315d5a105ca2a5a64aae396a57be
 }
