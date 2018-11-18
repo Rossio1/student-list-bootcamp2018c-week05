@@ -1,0 +1,28 @@
+body{
+  text-align: center;
+  margin-top: 15%;
+  background-image: url('https://images-na.ssl-images-amazon.com/images/I/81DYrQ5oTGL._SL1500_.jpg');
+  background-repeat:no-repeat;
+  background-size: cover;
+  font-family: georgia;
+  font-size: 22px;
+}
+body h3{
+  font-weight: lighter;
+  font-size: 28px;
+  font-family: georgia;
+}
+ul{
+  list-style: none;
+}
+button{
+  text-align: center;
+  background-color: firebrick;
+  border-radius: 5%;
+  font-size: 18px;
+  border: 2px solid black;
+  font-family: georgia;
+}
+input{
+  font-size: 18px;
+}

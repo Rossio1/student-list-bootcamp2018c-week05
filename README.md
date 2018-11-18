@@ -1,24 +1,14 @@
-# 👩🏾‍🎓 Week05 Bootcamp2018c Project: Student List
+# My Awesome Project
+This is an attendance list application that allows the teacher to submit student names as they enter the classroom, and then click on a button to display all the names of the students.
 
-### Goal: Build a Simple Student List App For A Teacher
+![alt tag](image/attendance.png)
 
-Create a simple app where a teacher can enter student names as they arrive at class. The teacher should have the ability to press a button and see a list off all the students who have arrived.
+## How It's Made:
 
-### How to submit your code for review:
+**Tech used:** HTML, CSS, JQuery
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+This application is built with students name submitted through an input and stored in a global array. The add button is set to an event listener that listens for the click and pushes the input value to the array. The student arrived button is also set to an event listener and listens for the click, and then append to the DOM all the students name in html li. The clear button removes all li on the DOM to clear names.
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## Lessons Learned:
+
+I learned to write shorthand syntax with using JavaScript JQuery library. The JQuery library comes with shorthand methods to easily append HTML elements to the DOM and set event listeners for elements from the DOM.
